@@ -82,7 +82,7 @@ def render_topics():
 
 
 def render_quiz():
-    st.markdown("### 🧠 Quick viva / quiz helper")
+    st.markdown("### Quick Questions")
 
     items = get_quiz_items()
     if not items:
