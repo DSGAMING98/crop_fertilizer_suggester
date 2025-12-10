@@ -4,7 +4,7 @@
 This project is a **Python + Streamlit** app that suggests suitable **fertilizers for a given crop and soil test report**, while **explaining the chemistry and agronomy logic** behind the recommendation.
 
 It’s designed as an **experiential learning tool** for chemistry + agriculture:
-- Students can tweak soil values (pH, NPK, EC, etc.)
+- We can tweak soil values (pH, NPK, EC, etc.)
 - Instantly see **how recommendations change**
 - Learn about **fertilizer types, nutrient chemistry, and soil health**
 
