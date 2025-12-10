@@ -1,9 +1,9 @@
 import sys
 from pathlib import Path
 
-# ============================================================
+
 # PATH SETUP — MAKE SURE `src` IMPORTS WORK
-# ============================================================
+
 
 APP_DIR = Path(__file__).resolve().parent          # .../crop_fertilizer_suggester/app
 PROJECT_ROOT = APP_DIR.parent                      # .../crop_fertilizer_suggester
