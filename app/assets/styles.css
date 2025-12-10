@@ -1,0 +1,91 @@
+/*  Global dark mode reset  */
+
+html, body, .stApp {
+    background-color: #0E1117 !important;
+    color: #f5f5f5 !important;
+}
+
+/* Kill any old gradients or images */
+.stApp {
+    background-image: none !important;
+}
+
+/* Main content container */
+.block-container {
+    background-color: #0E1117 !important;
+    padding-top: 1.5rem !important;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #050608 !important;
+    border-right: 1px solid #222 !important;
+    color: #e5e7eb !important;
+}
+
+/* Sidebar headings / text */
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] span {
+    color: #e5e7eb !important;
+}
+
+/* Titles & headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+}
+
+/* Metrics / cards look okay on dark */
+[data-testid="stMetric"] {
+    background-color: #111827 !important;
+    border-radius: 0.75rem !important;
+    padding: 0.8rem !important;
+}
+
+/* Info / success / warning boxes */
+.stAlert {
+    background-color: #111827 !important;
+    color: #e5e7eb !important;
+    border-radius: 0.75rem !important;
+    border: 1px solid #1f2933 !important;
+}
+
+.stAlert > div {
+    background-color: transparent !important;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #22c55e !important;
+    color: #0b1120 !important;
+    border-radius: 999px !important;
+    border: none !important;
+    font-weight: 600 !important;
+}
+
+.stButton > button:hover {
+    background-color: #16a34a !important;
+}
+
+/* Inputs (number, select, etc.) */
+.stNumberInput input,
+.stTextInput input,
+.stSelectbox select,
+.stSelectbox div[data-baseweb="select"] {
+    background-color: #020617 !important;
+    color: #e5e7eb !important;
+    border-radius: 0.5rem !important;
+    border: 1px solid #1f2937 !important;
+}
+
+/* Labels */
+label {
+    color: #e5e7eb !important;
+}
+
+/* Horizontal rule softer */
+hr {
+    border-color: #1f2937 !important;
+}

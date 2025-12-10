@@ -1,0 +1,7 @@
+pH,organic_carbon,nitrogen,phosphorus,potassium,soil_type,rainfall,temperature,ec,crop
+6.5,0.8,80,25,150,Loam,800,28,0.6,Rice
+7.2,0.6,40,12,70,Clay,600,26,0.8,Wheat
+5.5,0.5,35,10,50,Sandy,900,27,0.5,Maize
+6.8,1.1,110,40,180,Loam,950,27,0.7,Vegetables
+7.5,0.7,55,18,200,Sandy loam,700,30,0.9,Sugarcane
+6.2,0.65,45,15,90,Clay,750,26,0.55,Pulses

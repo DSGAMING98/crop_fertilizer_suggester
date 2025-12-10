@@ -1,0 +1,9 @@
+pH,organic_carbon,nitrogen,phosphorus,potassium,soil_type,rainfall,temperature,ec,crop,recommended_fertilizer
+6.5,0.8,80,25,150,Loam,800,28,0.6,Rice,Urea
+7.2,0.6,40,12,70,Clay,600,26,0.8,Wheat,DAP
+5.5,0.5,35,10,50,Sandy,900,27,0.5,Maize,NPK_17_17_17
+6.8,1.1,110,40,180,Loam,950,27,0.7,Vegetables,NPK_17_17_17
+7.5,0.7,55,18,200,Sandy loam,700,30,0.9,Sugarcane,MOP
+6.2,0.65,45,15,90,Clay,750,26,0.55,Pulses,DAP
+6.9,0.9,95,35,160,Loam,820,29,0.65,Rice,Urea
+5.8,0.55,30,8,45,Sandy,880,27,0.45,Maize,DAP

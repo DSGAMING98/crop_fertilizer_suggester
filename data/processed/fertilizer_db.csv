@@ -1,0 +1,8 @@
+name,type,N_pct,P_pct,K_pct,S_pct,notes,safety_notes
+Urea,Nitrogenous,46.0,0.0,0.0,0,High N fertilizer,Avoid overuse
+DAP,Phosphatic,18.0,46.0,0.0,0,N + P fertilizer,Place near root
+SSP,Phosphatic,0.0,16.0,0.0,12,Slow P release,Bulky application
+MOP,Potassic,0.0,0.0,60.0,0,K fertilizer,Avoid saline soils
+NPK_17_17_17,NPK_Complex,17.0,17.0,17.0,0,Balanced NPK,Avoid overuse
+FYM,Organic,0.5,0.2,0.5,0,Farmyard manure,"Bulky, slow release"
+Vermicompost,Organic,1.5,0.9,1.2,0,High organic activity,Safe organic input
