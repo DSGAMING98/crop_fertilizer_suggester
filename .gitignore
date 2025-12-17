@@ -1,0 +1,25 @@
+# Virtual env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# Streamlit stuff
+.streamlit/cache/
+.streamlit/state/
+
+# VS Code / PyCharm / IDE junk
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db

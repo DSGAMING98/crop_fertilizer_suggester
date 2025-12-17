@@ -1,0 +1,7 @@
+crop,min_pH,max_pH,N_req,P_req,K_req,season,notes
+Rice,5.5,7.5,120,60,60,Kharif,"Flooded crop, high nitrogen demand"
+Wheat,6.0,7.8,100,50,50,Rabi,Requires balanced NPK
+Maize,5.5,7.5,90,45,45,Kharif,Moderate feeder
+Sugarcane,6.0,8.0,150,70,120,Annual,Very high nutrient demand
+Pulses,6.0,7.5,30,40,40,Rabi,Legume fixes nitrogen
+Vegetables,5.8,7.8,110,60,100,All,Nutrient intensive
